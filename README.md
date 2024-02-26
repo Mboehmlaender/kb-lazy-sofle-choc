@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/issues/Mboehmlaender/kb-lazy-sofle-choc" alt="open issues" />
   </a>
   <a href="https://github.com/Mboehmlaender/kb-lazy-sofle-choc/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Mboehmlaender/kb-lazy-sofle-choc.svg" alt="license" />
+    <img src="https://img.shields.io/github/license/mboehmlaender/kb-lazy-sofle-choc.svg" alt="license" />
   </a>
 </p>
    
