@@ -54,8 +54,7 @@ Sofle soldered was contributed by [kb-elmo](https://github.com/kb-elmo)
 # Table of Contents
 
 - [About the Project](#about-the-project)
-  * [Finished Project](#finished-project)
-  * [Features](#features)
+- [Features](#features)
 - [Getting Started](#getting-started)
   * [List of materials](#list-of-materials)
   * [Necessary tools](#necessary-tools) 
@@ -70,9 +69,6 @@ Sofle soldered was contributed by [kb-elmo](https://github.com/kb-elmo)
 <!-- About the Project -->
 ## About the Project
 Description
-
-<!-- Finished Project -->
-### Finished Project
 
 <div align="center"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
