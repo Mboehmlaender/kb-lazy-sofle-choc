@@ -1,32 +1,143 @@
-# Sofle Keyboard
+<div align="center">
 
+
+  <!-- <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
+  <h1>LazySofleChoc</h1>
+  
+  <p>
 ![SofleKeyboard](docs/images/sofle_keyboard.jpg)
 
-Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd) and [Helix](https://github.com/MakotoKurauchi/helix) keyboards.
+The origianal Sofle is a 6×4+5 keys column-staggered split keyboard with encoder support. Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd) and [Helix](https://github.com/MakotoKurauchi/helix) keyboards.
+
+I removed three of the five thumb-cluster keys as i do not need them and i switched the firmware to VIAL. Those are the only varations that were made.
 
 **[For more information and documentation visit https://josefadamcik.github.io/SofleKeyboard/](https://josefadamcik.github.io/SofleKeyboard/)**
 
-SofleKeyboard was created by [Josef Adamcik](https://josef-adamcik.cz/). The motivation and process is covered in following blog-post: [Let me introduce you SofleKeyboard - a split keyboard based on Lily58 and Crkbd](https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B2D03MR)
-
+SofleKeyboard was created by [Josef Adamcik](https://josef-adamcik.cz/). The motivation and process is covered in following blog-post: [Let me introduce you SofleKeyboard - a split keyboard based on Lily58 and Crkbd](https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html). The Sofle Choc was designed by Brian Low and based on the excellent Sofle RGB by Dane Evans which was based on the original Sofle v2 by Josef Adamčík.
 
 Sofle RGB was contributed by [Dane Evans](https://github.com/DaneEvans).
 
 Sofle soldered was contributed by [kb-elmo](https://github.com/kb-elmo)
 
+</p>
+  
+  
+<!-- Badges -->
+<p>
+  <a href="https://github.com/Mboehmlaender/nano-binary-clock/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Mboehmlaender/nano-binary-clock" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/Mboehmlaender/nano-binary-clock" alt="last update" />
+  </a>
+  <a href="https://github.com/Mboehmlaender/nano-binary-clock/network/members">
+    <img src="https://img.shields.io/github/forks/Mboehmlaender/nano-binary-clock" alt="forks" />
+  </a>
+  <a href="https://github.com/Mboehmlaender/nano-binary-clock/stargazers">
+    <img src="https://img.shields.io/github/stars/Mboehmlaender/nano-binary-clock" alt="stars" />
+  </a>
+  <a href="https://github.com/Mboehmlaender/nano-binary-clock/issues/">
+    <img src="https://img.shields.io/github/issues/Mboehmlaender/nano-binary-clock" alt="open issues" />
+  </a>
+  <a href="https://github.com/Mboehmlaender/nano-binary-clock/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Mboehmlaender/nano-binary-clock.svg" alt="license" />
+  </a>
+</p>
+   
+<h4>
+    <a href="https://github.com/Mboehmlaender/nano-binary-clock">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/Mboehmlaender/nano-binary-clock/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/Mboehmlaender/nano-binary-clock/issues/">Request Feature</a>
+  </h4>
+</div>
+
+<br />
+
+<!-- Table of Contents -->
+# Table of Contents
+
+- [About the Project](#about-the-project)
+  * [Finished Project](#finished-project)
+  * [Features](#features)
+- [Getting Started](#getting-started)
+  * [List of materials](#list-of-materials)
+  * [Necessary tools](#necessary-tools) 
+  * [Optional tools](#optional-tools)
+- [Build Guide](#build-guide)
+- [Firmware](#firmware)
+- [FAQ](#faq)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+<!-- About the Project -->
+## About the Project
+Description
+
+<!-- Finished Project -->
+### Finished Project
+
+<div align="center"> 
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+</div>
+
+<!-- Features -->
+### Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+<!-- Getting Started -->
+## Getting Started
+
+<!-- List of Materials -->
+### List of Materials
+
+- 
+- 
+- 
+
+<!-- Necessary tools -->
+### Necessary tools
+- 
+-
+-
+   
+<!-- Optional tools -->
+### Optional tools
+- 
+-
+-
+
+<!-- Build Guide -->
+### Build Guide
+
+There is a detailled guide on how to build the Sofle Choc by Brian Lowe. Please refer to [this site](https://brianlow.notion.site/Sofle-Choc-Build-Guide-c4bbbaece6e746f7a5956842af567e79).
+
+<!-- Firmware -->
 ## Firmware 
 
-Sofle uses [QMK firmware](https://qmk.fm/)
+Sofle uses [Vial firmware](https://github.com/vial-kb/vial-qmk)
 
-## Default layout 
+<!-- FAQ -->
+## FAQ
 
-![Default layout for SofleKeyboard](Images/soflekeyboard.png)
+- Question 1
 
-## Images of keyboard
+  + Answer 1
 
-![SofleKeyboard](Images/IMG_20191110_131443.jpg)
+- Question 2
 
-![SofleKeyboard Choc](Images/chocclear.jpg)
+  + Answer 2
 
-![SofleKeyboard PCB](Images/IMG_20191104_202757.jpg)
+
+<!-- License -->
+## License
+
+Licensed under ...
+
+<!-- Acknowledgments -->
+## Acknowledgements
