@@ -136,7 +136,7 @@ Sofle uses [Vial firmware](https://github.com/vial-kb/vial-qmk)
 
 Licensed under MIT license
 
-[<img src="[https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png](https://opensource.org/wp-content/themes/osi/assets/img/osi-badge-light.svg)" width="117">](https://opensource.org/license/mit)
+[<img src="https://opensource.org/wp-content/themes/osi/assets/img/osi-badge-light.svg" width="117">](https://opensource.org/license/mit)
 
 <!-- Acknowledgments -->
 ## Acknowledgements
