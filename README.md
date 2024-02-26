@@ -36,8 +36,6 @@
   <h1>LazySofleChoc</h1>
   
   <p>
-![SofleKeyboard](docs/images/sofle_keyboard.jpg)
-
 The origianal Sofle is a 6×4+5 keys column-staggered split keyboard with encoder support. Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd) and [Helix](https://github.com/MakotoKurauchi/helix) keyboards.
 
 I removed three of the five thumb-cluster keys as i do not need them and i switched the firmware to VIAL. Those are the only varations that were made.
