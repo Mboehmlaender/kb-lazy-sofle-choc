@@ -2,32 +2,32 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Mboehmlaender/nano-binary-clock/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Mboehmlaender/nano-binary-clock" alt="contributors" />
+  <a href="https://github.com/Mboehmlaender/kb-lazy-sofle-choc/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Mboehmlaender/kb-lazy-sofle-choc" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Mboehmlaender/nano-binary-clock" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/Mboehmlaender/kb-lazy-sofle-choc" alt="last update" />
   </a>
-  <a href="https://github.com/Mboehmlaender/nano-binary-clock/network/members">
-    <img src="https://img.shields.io/github/forks/Mboehmlaender/nano-binary-clock" alt="forks" />
+  <a href="https://github.com/Mboehmlaender/kb-lazy-sofle-choc/network/members">
+    <img src="https://img.shields.io/github/forks/Mboehmlaender/kb-lazy-sofle-choc" alt="forks" />
   </a>
-  <a href="https://github.com/Mboehmlaender/nano-binary-clock/stargazers">
-    <img src="https://img.shields.io/github/stars/Mboehmlaender/nano-binary-clock" alt="stars" />
+  <a href="https://github.com/Mboehmlaender/kb-lazy-sofle-choc/stargazers">
+    <img src="https://img.shields.io/github/stars/Mboehmlaender/kb-lazy-sofle-choc" alt="stars" />
   </a>
-  <a href="https://github.com/Mboehmlaender/nano-binary-clock/issues/">
-    <img src="https://img.shields.io/github/issues/Mboehmlaender/nano-binary-clock" alt="open issues" />
+  <a href="https://github.com/Mboehmlaender/kb-lazy-sofle-choc/issues/">
+    <img src="https://img.shields.io/github/issues/Mboehmlaender/kb-lazy-sofle-choc" alt="open issues" />
   </a>
-  <a href="https://github.com/Mboehmlaender/nano-binary-clock/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Mboehmlaender/nano-binary-clock.svg" alt="license" />
+  <a href="https://github.com/Mboehmlaender/kb-lazy-sofle-choc/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Mboehmlaender/kb-lazy-sofle-choc.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/Mboehmlaender/nano-binary-clock">Documentation</a>
+    <a href="https://github.com/Mboehmlaender/kb-lazy-sofle-choc">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Mboehmlaender/nano-binary-clock/issues/">Report Bug</a>
+    <a href="https://github.com/Mboehmlaender/kb-lazy-sofle-choc/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Mboehmlaender/nano-binary-clock/issues/">Request Feature</a>
+    <a href="https://github.com/Mboehmlaender/kb-lazy-sofle-choc/issues/">Request Feature</a>
   </h4>
 </div>
 
