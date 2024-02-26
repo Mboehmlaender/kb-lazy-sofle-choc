@@ -142,15 +142,11 @@ Lily58 under the MIT license.
 Copyright (c) 2018 Naoki Katahira
 https://github.com/kata0510/Lily58
 
-https://opensource.org/licenses/mit-license.php
-
 Lily58 Project contains changes to the original product and / or the original product.
 Helix under the MIT license.
 
 Copyright (c) 2018 MakotoKurauchi
 https://github.com/MakotoKurauchi/helix
-
-https://opensource.org/licenses/mit-license.php
 
 Lily58 Project contains changes to the original product and / or the original product.
 crkbd under the MIT license.
@@ -158,15 +154,11 @@ crkbd under the MIT license.
 Copyright (c) 2018 foostan
 https://github.com/foostan/crkbd
 
-https://opensource.org/licenses/mit-license.php
-
 Lily58 Project contains changes to the original product and / or the original product.
 Ergo42 under the MIT license.
 
 Copyright (c) 2017 Biacco42
 https://github.com/Biacco42/Ergo42
-
-https://opensource.org/licenses/mit-license.php
 
 [<img src="https://opensource.org/wp-content/themes/osi/assets/img/osi-badge-light.svg" width="117">](https://opensource.org/license/mit)
 
