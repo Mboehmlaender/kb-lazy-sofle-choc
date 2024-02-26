@@ -1,26 +1,4 @@
 <div align="center">
-
-
-  <!-- <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
-  <h1>LazySofleChoc</h1>
-  
-  <p>
-![SofleKeyboard](docs/images/sofle_keyboard.jpg)
-
-The origianal Sofle is a 6×4+5 keys column-staggered split keyboard with encoder support. Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd) and [Helix](https://github.com/MakotoKurauchi/helix) keyboards.
-
-I removed three of the five thumb-cluster keys as i do not need them and i switched the firmware to VIAL. Those are the only varations that were made.
-
-**[For more information and documentation visit https://josefadamcik.github.io/SofleKeyboard/](https://josefadamcik.github.io/SofleKeyboard/)**
-
-SofleKeyboard was created by [Josef Adamcik](https://josef-adamcik.cz/). The motivation and process is covered in following blog-post: [Let me introduce you SofleKeyboard - a split keyboard based on Lily58 and Crkbd](https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html). The Sofle Choc was designed by Brian Low and based on the excellent Sofle RGB by Dane Evans which was based on the original Sofle v2 by Josef Adamčík.
-
-Sofle RGB was contributed by [Dane Evans](https://github.com/DaneEvans).
-
-Sofle soldered was contributed by [kb-elmo](https://github.com/kb-elmo)
-
-</p>
-  
   
 <!-- Badges -->
 <p>
@@ -54,6 +32,25 @@ Sofle soldered was contributed by [kb-elmo](https://github.com/kb-elmo)
 </div>
 
 <br />
+  <!-- <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
+  <h1>LazySofleChoc</h1>
+  
+  <p>
+![SofleKeyboard](docs/images/sofle_keyboard.jpg)
+
+The origianal Sofle is a 6×4+5 keys column-staggered split keyboard with encoder support. Based on [Lily58](https://github.com/kata0510/Lily58), [Corne](https://github.com/foostan/crkbd) and [Helix](https://github.com/MakotoKurauchi/helix) keyboards.
+
+I removed three of the five thumb-cluster keys as i do not need them and i switched the firmware to VIAL. Those are the only varations that were made.
+
+**[For more information and documentation visit https://josefadamcik.github.io/SofleKeyboard/](https://josefadamcik.github.io/SofleKeyboard/)**
+
+SofleKeyboard was created by [Josef Adamcik](https://josef-adamcik.cz/). The motivation and process is covered in following blog-post: [Let me introduce you SofleKeyboard - a split keyboard based on Lily58 and Crkbd](https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html). The Sofle Choc was designed by Brian Low and based on the excellent Sofle RGB by Dane Evans which was based on the original Sofle v2 by Josef Adamčík.
+
+Sofle RGB was contributed by [Dane Evans](https://github.com/DaneEvans).
+
+Sofle soldered was contributed by [kb-elmo](https://github.com/kb-elmo)
+
+</p>
 
 <!-- Table of Contents -->
 # Table of Contents
