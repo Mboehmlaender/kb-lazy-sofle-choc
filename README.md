@@ -63,7 +63,6 @@ Sofle soldered was contributed by [kb-elmo](https://github.com/kb-elmo)
 - [Firmware](#firmware)
 - [FAQ](#faq)
 - [License](#license)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 <!-- About the Project -->
